@@ -1,4 +1,8 @@
 # c
+## Courses
+### https://www.codecademy.com/learn/learn-c-plus-plus
+### https://www.w3schools.com/cpp/
+### https://www.javatpoint.com/c-programming-language-tutorial
 * [C Tutorial](https://www.sololearn.com/Play/C)
 * https://www.learn-c.org/
 * https://www.programiz.com/c-programming
