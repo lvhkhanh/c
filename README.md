@@ -1,6 +1,7 @@
 # c
 ## Courses
 ### https://www.codecademy.com/learn/learn-c-plus-plus
+### [C Programming: Getting Started](https://courses.edx.org/courses/course-v1:Dartmouth_IMTx+DART.IMT.C.01+1T2020/course/)
 ### https://www.w3schools.com/cpp/
 ### https://www.javatpoint.com/c-programming-language-tutorial
 * [C Tutorial](https://www.sololearn.com/Play/C)
